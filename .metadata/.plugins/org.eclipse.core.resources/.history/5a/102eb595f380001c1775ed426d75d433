@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.gqt.crs.entity;
+
+/**
+ * @author GQT Trainer - Raghu
+ */
+public class Admin {
+	private int admin_id;
+	private String admin_name;
+}
