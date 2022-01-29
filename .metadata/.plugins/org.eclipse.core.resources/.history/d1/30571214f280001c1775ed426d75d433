@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+package com.gqt.crs.entity;
+
+/**
+ * @author GQT Trainer - Raghu
+ */
+public class Course {
+
+}

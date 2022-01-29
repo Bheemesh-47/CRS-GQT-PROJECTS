@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package com.gqt.crs.entity;
+
+/**
+ * @author GQT Trainer - Raghu
+ */
+public class Course {
+	private int course_id;
+	private String course_name;
+	private int course_duration;
+	private int course_fees;
+}
