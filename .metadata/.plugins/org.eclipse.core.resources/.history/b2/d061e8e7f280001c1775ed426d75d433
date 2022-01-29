@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package com.gqt.crs.entity;
+
+/**
+ * @author GQT Trainer - Raghu
+ */
+public class Student {
+	private int student_id;
+	private String student_name;
+	private String student_email;
+	private String student_pwd;
+	private String student_addr;
+}
